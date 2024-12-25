@@ -46,4 +46,8 @@ body {
     .project-item {
         display: block !important;
     }
+    
+    .project-title {
+        display: block !important;
+    }
 }
